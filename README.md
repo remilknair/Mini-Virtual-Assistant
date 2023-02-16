@@ -1,2 +1,7 @@
-# Mini-Virtual-Assistant
-My college project
+
+CONTACT MANAGEMENT SYSTEM - PYTHON
+
+
+
+
+
